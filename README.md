@@ -4,4 +4,4 @@
 
 
 <!--- ![](https://github-readme-stats-5nevq31n3-sleters-projects.vercel.app/api?username=sleter&hide_title=true&show_icons=true&count_private=true&theme=radical) --->
-![](https://github-readme-stats-5nevq31n3-sleters-projects.vercel.app/api/top-langs?theme=dark&username=sleter)
+![Stats](https://github-readme-stats-five-gamma-14.vercel.app/api/top-langs?theme=dark&username=sleter)
